@@ -48,23 +48,5 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=laozheng2333&theme=redical&hide_border=true" alt="Contribution Graph" />
 </p>
 
----
 
-### 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=laozheng2333&theme=radical&no-frame=true&row=1&column=6" alt="Trophies" />
-</p>
-
----
-
----
-
-### 🔗 Connect with me
-
-<p align="center">
-  <a href="https://github.com/laozheng2333" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <!-- 添加你的其他社交账号 -->
-</p>
