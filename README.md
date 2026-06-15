@@ -8,8 +8,8 @@
 
 ### 🧑‍💻 About Me
 
-- 🔭 Doing ** LLM Observability / LLM infra ** research
-- 🌱 Learning ** ebpf / llm infra **
+- 🔭 Doing LLM Observability / LLM infra research
+- 🌱 Learning ebpf / llm infra 
 - 📫 connecting: fdjkasl7@gmail.com
 
 ---
